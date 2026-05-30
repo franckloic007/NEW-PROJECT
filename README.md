@@ -1,2 +1,2 @@
 # NEW-PROJECT
-I want to introduce a web site to train myself 
+This project is to train my self to build a web site 
